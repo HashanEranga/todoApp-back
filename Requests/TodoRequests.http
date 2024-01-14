@@ -1,0 +1,6 @@
+@todoApp_back_HostAddress = http://localhost:44361
+
+GET {{todoApp_back_HostAddress}}/api/todo/items
+Accept: application/json
+
+###
